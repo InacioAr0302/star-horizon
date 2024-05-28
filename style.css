@@ -1,8 +1,10 @@
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
 }
 
 canvas {
   display: block;
+  background-image: url(/assets/A\ Planet\ Hiding\ Behind\ The\ Sun.jpeg);
 }
